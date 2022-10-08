@@ -1,8 +1,15 @@
-﻿namespace Problem7
+﻿using ProgrammRunner;
+
+namespace Problem7
 {
-    internal class Program
+    internal class Program : IProgramm<int>
     {
         static void Main(string[] args)
+        {
+            ProgrammRunner<int>.Run(new Program());
+        }
+
+        public int Execute()
         {
             var currentNumber = 1;
             var lastPrime = 1;
@@ -19,10 +26,10 @@
                 currentNumber += 2;
             }
 
-            Console.WriteLine(lastPrime);
+            return lastPrime;
         }
 
-        public static bool IsPrime(int number)
+        public bool IsPrime(int number)
         {
             for (int counter = number - 1; counter > 1; counter--)
             {
@@ -36,5 +43,6 @@
 
             return true;
         }
+
     }
 }
