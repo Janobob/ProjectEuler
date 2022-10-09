@@ -3,27 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem1", "ProjectEuler\Problem1.csproj", "{5D457D64-E8A6-4F79-B209-1EFB938D484F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem2", "Problem2\Problem2.csproj", "{D0B7BF86-29CE-4DC0-8170-C4399D6B3DD9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem2", "Problem2\Problem2.csproj", "{D0B7BF86-29CE-4DC0-8170-C4399D6B3DD9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem3", "Problem3\Problem3.csproj", "{EDBF7AFB-3536-4296-8570-B8D990180B4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem3", "Problem3\Problem3.csproj", "{EDBF7AFB-3536-4296-8570-B8D990180B4F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem4", "Problem4\Problem4.csproj", "{01B625F7-FDE5-4450-8E0F-B4DE9E5613F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem4", "Problem4\Problem4.csproj", "{01B625F7-FDE5-4450-8E0F-B4DE9E5613F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem5", "Problem5\Problem5.csproj", "{E9E22F91-3A17-4835-A8C0-43DDFEA1B244}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem5", "Problem5\Problem5.csproj", "{E9E22F91-3A17-4835-A8C0-43DDFEA1B244}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem6", "Problem6\Problem6.csproj", "{F4BDD50C-87DE-4F77-8039-BD55342C1B64}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem6", "Problem6\Problem6.csproj", "{F4BDD50C-87DE-4F77-8039-BD55342C1B64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem7", "Problem7\Problem7.csproj", "{82021D10-EB75-4347-8AAD-CC23B6FA2519}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem7", "Problem7\Problem7.csproj", "{82021D10-EB75-4347-8AAD-CC23B6FA2519}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProgrammRunner", "ProgrammRunner\ProgrammRunner.csproj", "{DCE4507A-DD34-43BC-858F-354D5EB4F902}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgrammRunner", "ProgrammRunner\ProgrammRunner.csproj", "{DCE4507A-DD34-43BC-858F-354D5EB4F902}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9", "Problem9\Problem9.csproj", "{E4AA8FBF-0F95-4C07-BC4B-4DBF2E472738}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9", "Problem9\Problem9.csproj", "{E4AA8FBF-0F95-4C07-BC4B-4DBF2E472738}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem10", "Problem10\Problem10.csproj", "{813369FD-829F-416A-A578-F8D78003751C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem10", "Problem10\Problem10.csproj", "{813369FD-829F-416A-A578-F8D78003751C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem8", "Problem8\Problem8.csproj", "{687D0548-02CC-4EE7-AAA3-E85E00EEB28A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem8", "Problem8\Problem8.csproj", "{687D0548-02CC-4EE7-AAA3-E85E00EEB28A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem1", "Problem1\Problem1.csproj", "{7D6B9CA2-A54A-45E5-AE1C-C731D4B8ACB6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,10 +31,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5D457D64-E8A6-4F79-B209-1EFB938D484F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5D457D64-E8A6-4F79-B209-1EFB938D484F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5D457D64-E8A6-4F79-B209-1EFB938D484F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5D457D64-E8A6-4F79-B209-1EFB938D484F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D0B7BF86-29CE-4DC0-8170-C4399D6B3DD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D0B7BF86-29CE-4DC0-8170-C4399D6B3DD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0B7BF86-29CE-4DC0-8170-C4399D6B3DD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -75,6 +71,10 @@ Global
 		{687D0548-02CC-4EE7-AAA3-E85E00EEB28A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{687D0548-02CC-4EE7-AAA3-E85E00EEB28A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{687D0548-02CC-4EE7-AAA3-E85E00EEB28A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D6B9CA2-A54A-45E5-AE1C-C731D4B8ACB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D6B9CA2-A54A-45E5-AE1C-C731D4B8ACB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D6B9CA2-A54A-45E5-AE1C-C731D4B8ACB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D6B9CA2-A54A-45E5-AE1C-C731D4B8ACB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
